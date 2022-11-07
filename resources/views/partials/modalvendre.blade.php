@@ -36,7 +36,7 @@
         </div>
         
              
-              <button type="submit" class="btn btn-warning">Vendre le véhicule</button> 
+              <button type="submit" class="btn btn-warning mt-3">Vendre le véhicule</button> 
               </form>
             </div>
             <div class="modal-footer">
